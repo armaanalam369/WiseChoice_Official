@@ -97,13 +97,13 @@ const teamData = [
     name: "Sahil Khan",
     role: "Moderator",
     photo: "sahil.png",
-    link: ""
+    link: "https://www.instagram.com/itz__me__sahil8479?cplk=Z2x3bnk3NTQ0OWoz"
   },
    {
     name: "Rashid Ahmed Khan",
     role: "Teacher (Persian)",
     photo: "rashid.png",
-    link: ""
+    link: "https://www.instagram.com/__rashid__khan__01?dlrf=amVvdzQ1cTkxamY1"
   },
    {
     name: "Fatma Khatoon",
@@ -111,18 +111,18 @@ const teamData = [
     photo: "",
     link: ""
   },
-  // {
-   // name: "Animesh Chaubey",
-   // role: "",
-   // photo: "animesh.png",
-   // link: "https://www.instagram.com/animeshpandit.020?stkn=dTV1YXd5eHI2ZDNt"
-  //},
-  // {
-   // name: "Aafreen Parveen",
-    //role: "",
-   // photo: "aafreen.png",
-  //  link: ""
- // },
+   {
+    name: "Animesh Chaubey",
+    role: "Group Manager",
+    photo: "animesh.png",
+    link: "https://www.instagram.com/animeshpandit.020?stkn=dTV1YXd5eHI2ZDNt"
+   },
+   {
+    name: "Aafreen Bano",
+    role: "PYQ Collector",
+    photo: "",
+    link: ""
+   },
    //{
    // name: "Sahil Khan",
   //  role: "Moderator",
