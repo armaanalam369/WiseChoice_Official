@@ -78,7 +78,7 @@ const profileData = {
     { icon: "fab fa-whatsapp", url: "https://whatsapp.com/channel/0029VaryZMKLY6dAMTudnA2x", label: "WhatsApp" },
     { icon: "fab fa-youtube", url: "https://youtube.com/@wisexchoice?si=6vIhaqAjek4WB45E", label: "YouTube" },
     { icon: "fab fa-telegram", url: "https://t.me/WISExCHOICE", label: "Telegram" },
-    { icon: "fab fa-instagram", url: "https://www.instagram.com/wisexchoice?stkn=MXZwc2RxYW8xMjJj", label: "Instagram" },
+    { icon: "fab fa-instagram", url: "https://www.instagram.com/glitchxarm?mdxt=bXJlaXN1dDI3dnA4", label: "Instagram" },
     { icon: "fas fa-envelope", url: "mailto:wisechoiceofficials@gmail.com", label: "Email" }
   ]
 };
