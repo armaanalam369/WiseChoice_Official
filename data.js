@@ -146,6 +146,17 @@ const linksData = [
     pinned: false
   },
   {
+    title: "Wise Choice PAID Courses",
+    desc: "Paid PDFs, EBOOKs and Suggestions, all in one place",
+    url: "https://pdfcart.in/@wisechoice",
+    icon: "fas fa-folder-open",
+    category: "website",
+    section: "",
+    badge: "Library",
+    badgeColor: "info",
+    pinned: false
+  },
+  {
     title: "Suggestion Hub",
     desc: "Download semester study material, PDFs & exam suggestions",
     url: "https://armaanalam369.github.io/SuggestionHub_by_WiseChoice/",
