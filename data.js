@@ -149,10 +149,10 @@ const linksData = [
     title: "Wise Choice PAID Courses",
     desc: "Paid PDFs, EBOOKs and Suggestions, all in one place",
     url: "https://pdfcart.in/@wisechoice",
-    icon: "fas fa-folder-open",
+    icon: "fas fa-book-open",
     category: "website",
     section: "",
-    badge: "Library",
+    badge: "Online Store",
     badgeColor: "info",
     pinned: false
   },
