@@ -152,7 +152,7 @@ const linksData = [
     icon: "fas fa-book-open",
     category: "website",
     section: "",
-    badge: "Online Store",
+    badge: "Store",
     badgeColor: "info",
     pinned: false
   },
